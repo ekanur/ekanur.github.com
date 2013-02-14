@@ -3,12 +3,12 @@
 
 @font-face {
 font-family: 'ChunkFive Roman';
-src: url(Chunkfive.otf);;
+src: url(fonts/Chunkfive.otf);;
 }
 
 @font-face {
 font-family: 'New Cicle';
-src: url(New_Cicle_Fina.ttf);;
+src: url(fonts/New_Cicle_Fina.ttf);;
 }
 
 *{
