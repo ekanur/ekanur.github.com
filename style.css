@@ -4,11 +4,10 @@ font-family : "'ChunkFive Roman'";
 src : url(fonts/Chunkfive.otf);
 }
 @font-face {
-{
 font-family : "'New Cicle'";
 src : url(fonts/New_Cicle_Fina.ttf);
 }
-}
+
 * {
 margin : 0;
 padding : 0;
